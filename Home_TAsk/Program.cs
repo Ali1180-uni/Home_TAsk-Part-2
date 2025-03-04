@@ -13,7 +13,6 @@ namespace Home_TAsk
         {
             while (true)
             {
-                //I add Both program or classes at here
                 Library book = new Library();
                 Employee one = new Employee();
                 Console.WriteLine("\t------------------");
