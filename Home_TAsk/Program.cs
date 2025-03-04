@@ -18,7 +18,7 @@ namespace Home_TAsk
                 Console.WriteLine("\t------------------");
                 Console.WriteLine("\t||     MENU     ||");
                 Console.WriteLine("\t------------------");
-                Console.WriteLine("Please Select Option (1-2) or Press 0 to Exit \n 1. Library Managment\n 2. Employee Managment");
+                Console.WriteLine("Please Select Option (1-2) or Press 0 to Exit \n 1. Library Managment\n 2. Employe Managment");
                 int sel;
                 try
                 {
